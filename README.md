@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/073e698f640d45f8ce4b39d9a9606f155b1a3eef844bfafadc359ad946ad38de/68747470733a2f2f6570696370726f6772616d6d65726173736574732e6e65746c6966792e6170702f4173736574732f636f64652e6769663f7261773d74727565">
 
-- 🌱 I’m currently learning **Django (authentication, REST API)** and **Bootstrap (responsive design)**
+- 🌱 I’m currently learning **Flask (authentication, REST API)** and **Bootstrap (responsive design)**
 
 - 👨‍💻 Take a Look at my Portfolio [https://ayush30.pythonanywhere.com/#](https://ayush30.pythonanywhere.com/#)
 
