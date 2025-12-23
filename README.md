@@ -35,7 +35,7 @@ const ayush = {
 <td width="50%">
 
 ### 🚗 Uber Backend Clone
-**Real-time ride-hailing system** | [GitHub](https://github.com/aayushh-30)
+**Real-time ride-hailing system** | [GitHub](https://github.com/aayushh-30/Uber)
 - 15+ RESTful APIs with Node.js & Express
 - Redis caching reduced response time by ~40%
 - Real-time tracking via Socket.IO (100+ concurrent connections)
@@ -46,7 +46,7 @@ const ayush = {
 <td width="50%">
 
 ### 🎬 Movie Booking System
-**Full-stack ticket booking platform** | [GitHub](https://github.com/aayushh-30)
+**Full-stack ticket booking platform** | [GitHub](https://github.com/aayushh-30/MovieBooking)
 - Role-based authentication with JWT & bcrypt
 - Razorpay payment gateway integration
 - Optimized routing reduced latency by ~30%
@@ -59,7 +59,7 @@ const ayush = {
 <td width="50%">
 
 ### 📋 Custom Jira Board Clone
-**Project management solution** | [GitHub](https://github.com/aayushh-30)
+**Project management solution** | [GitHub](https://github.com/aayushh-30/JiraBoard-using-Python)
 - Full-stack Jira-like board with ticket management
 - JWT-based authentication & role-based access
 - RESTful APIs for boards, tickets & users
