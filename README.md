@@ -4,9 +4,7 @@
 
 ### 🚀 Passionate Developer | 💡 Problem Solver | 🌏 Based in India
 
-<!-- <img alt="coding" src="https://raw.githubusercontent.com/ayush30/brand-assets/main/coding-illustration.svg" width="420"/> -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush30.pythonanywhere.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akkportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-karmi-ab1186251)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ayushkumarkarmi30)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz__aayushhh_)
@@ -20,9 +18,9 @@
 ```typescript
 const ayush = {
     location: "India 🇮🇳",
-    currentlyLearning: ["AI","TypeScript", "AWS ☁️"],
+    currentlyLearning: ["AI", "TypeScript", "AWS ☁️"],
     interests: ["Algorithm Puzzles 🧩", "Building Useful Tools 🛠️", "API Development 🔌"],
-    askMeAbout: ["Backend Development","System Design","DSA"],
+    askMeAbout: ["Web Dev", "Backend", "DSA", "REST APIs", "System Design"],
     reachMe: "ayushkumarkarmi30@gmail.com",
     funFact: "I turn coffee ☕ into code and bugs 🐛 into features! ✨"
 };
@@ -36,34 +34,37 @@ const ayush = {
 <tr>
 <td width="50%">
 
-### 📱 BMI Calculator
-**Cross-platform health companion**
-- Built with Flutter + Dart
-- Real-time BMI calculations
-- Personalized health recommendations
-- Clean, intuitive UI/UX
+### 🚗 Uber Backend Clone
+**Real-time ride-hailing system** | [GitHub](https://github.com/aayushh-30)
+- 15+ RESTful APIs with Node.js & Express
+- Redis caching reduced response time by ~40%
+- Real-time tracking via Socket.IO (100+ concurrent connections)
+- OpenStreetMap integration for dynamic fare estimation
+- JWT authentication & input validation
 
 </td>
 <td width="50%">
 
-### ♟️ N-Queens Visualizer
-**Interactive algorithm playground**
-- Step-by-step backtracking animation
-- Visual learning tool for DSA
-- Python/JavaScript implementation
-- Educational & engaging
+### 🎬 Movie Booking System
+**Full-stack ticket booking platform** | [GitHub](https://github.com/aayushh-30)
+- Role-based authentication with JWT & bcrypt
+- Razorpay payment gateway integration
+- Optimized routing reduced latency by ~30%
+- APIs for movies, theatres, shows & bookings
+- Node.js, Express, MongoDB stack
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌤️ Weather & Movie API
-**Smart data aggregation service**
-- RESTful API architecture
-- Weather + Entertainment data
-- Flask/Django powered
-- Third-party API integration
+### 📋 Custom Jira Board Clone
+**Project management solution** | [GitHub](https://github.com/aayushh-30)
+- Full-stack Jira-like board with ticket management
+- JWT-based authentication & role-based access
+- RESTful APIs for boards, tickets & users
+- Email notifications for ticket updates
+- Built with Flask, SQLite & Jinja3
 
 </td>
 <td width="50%">
@@ -74,6 +75,7 @@ const ayush = {
 - Project gallery
 - Hosted on PythonAnywhere
 - Contact integration
+- [View Live](https://ayush30.pythonanywhere.com/)
 
 </td>
 </tr>
@@ -92,30 +94,42 @@ const ayush = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Other Tools & Technologies
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 </div>
 
