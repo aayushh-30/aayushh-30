@@ -4,7 +4,7 @@
 
 ### 🚀 Passionate Developer | 💡 Problem Solver | 🌏 Based in India
 
-<img alt="coding" src="https://raw.githubusercontent.com/ayush30/brand-assets/main/coding-illustration.svg" width="420"/>
+<!-- <img alt="coding" src="https://raw.githubusercontent.com/ayush30/brand-assets/main/coding-illustration.svg" width="420"/> -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush30.pythonanywhere.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-karmi-ab1186251)
@@ -20,9 +20,9 @@
 ```typescript
 const ayush = {
     location: "India 🇮🇳",
-    currentlyLearning: ["Flask", "FastAPI", "Docker", "React", "TypeScript", "AWS ☁️"],
+    currentlyLearning: ["AI","TypeScript", "AWS ☁️"],
     interests: ["Algorithm Puzzles 🧩", "Building Useful Tools 🛠️", "API Development 🔌"],
-    askMeAbout: ["C", "C++", "Python", "DSA", "REST APIs"],
+    askMeAbout: ["Backend Development","System Design","DSA"],
     reachMe: "ayushkumarkarmi30@gmail.com",
     funFact: "I turn coffee ☕ into code and bugs 🐛 into features! ✨"
 };
