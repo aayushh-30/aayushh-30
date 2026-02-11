@@ -30,60 +30,95 @@ const ayush = {
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects  
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🚗 Uber Backend Clone
-**Real-time ride-hailing system** | [GitHub](https://github.com/aayushh-30/Uber)
-- 15+ RESTful APIs with Node.js & Express
-- Redis caching reduced response time by ~40%
-- Real-time tracking via Socket.IO (100+ concurrent connections)
-- OpenStreetMap integration for dynamic fare estimation
-- JWT authentication & input validation
+## 🚀 Backend & Scalable Systems
 
-</td>
-<td width="50%">
+### 🚗 Uber Backend Clone  
+Real-time ride-hailing backend with REST APIs, Redis caching, and live tracking.  
+[GitHub](https://github.com/aayushh-30/Uber)
 
-### 🎬 Movie Booking System
-**Full-stack ticket booking platform** | [GitHub](https://github.com/aayushh-30/MovieBooking)
-- Role-based authentication with JWT & bcrypt
-- Razorpay payment gateway integration
-- Optimized routing reduced latency by ~30%
-- APIs for movies, theatres, shows & bookings
-- Node.js, Express, MongoDB stack
+### 🎬 Movie Booking System  
+Full-stack ticket booking platform with authentication and payment integration.  
+[GitHub](https://github.com/aayushh-30/MovieBooking)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🔐 Auth-as-a-Service  
+Centralized JWT-based authentication and role management microservice.  
+[GitHub](https://github.com/aayushh-30/AuthAsAService)
 
-### 📋 Custom Jira Board Clone
-**Project management solution** | [GitHub](https://github.com/aayushh-30/JiraBoard-using-Python)
-- Full-stack Jira-like board with ticket management
-- JWT-based authentication & role-based access
-- RESTful APIs for boards, tickets & users
-- Email notifications for ticket updates
-- Built with Flask, SQLite & Jinja3
+### 🎵 Music Player Backend API  
+Backend system supporting audio uploads, streaming, and playlist management.  
+[GitHub](https://github.com/aayushh-30/MyMusicAPI)
 
-</td>
-<td width="50%">
+---
 
-### 🎨 Portfolio Website
-**Personal brand showcase**
-- Responsive design
-- Project gallery
-- Hosted on PythonAnywhere
-- Contact integration
-- [View Live](https://ayush30.pythonanywhere.com/)
+## 🤖 AI & LLM Projects
 
-</td>
-</tr>
-</table>
+### 🤖 AI Reviewer  
+AI-powered review tool built using OpenAI SDK for automated feedback generation.  
+[GitHub](https://github.com/aayushh-30/AI-Reviewer--OpenAI-)
+
+### 🧠 AI Agents (OpenAI SDK)  
+Implementation of agentic workflows with multi-step reasoning and tool usage.  
+[GitHub](https://github.com/aayushh-30/AI_Agents_OPENAI_SDK)
+
+### 💬 MyGPT (Gemini API)  
+LLM-based chatbot integrating Gemini API with conversation memory handling.  
+[GitHub](https://github.com/aayushh-30/MyGPT-using-GEMINI-API)
+
+---
+
+## 🛠️ Full Stack Applications
+
+### 📋 Custom Jira Board Clone  
+Jira-like project management system with ticket handling and authentication.  
+[GitHub](https://github.com/aayushh-30/JiraBoard-using-Python)
+
+### 🛒 PriCo – Price Comparator  
+Django-based price comparison platform using web scraping for real-time data.  
+[GitHub](https://github.com/aayushh-30/PriCo-The-Ultimate-Price-Comparator)
+
+### 📝 Blogging Site (Flask)  
+Blog platform with CRUD operations and user authentication built using Flask.  
+[GitHub](https://github.com/aayushh-30/Bloggin-Site-using-Flask)
+
+### 🌐 Portfolio Website  
+Responsive personal portfolio showcasing projects and technical skills.  
+[Live](https://ayush30.pythonanywhere.com/)
+
+---
+
+## 📊 Data & Analytics
+
+### 📈 Data Analysis using Power BI  
+Business intelligence dashboards and KPI visualizations using Power BI.
+
+### 📊 Data Analysis using Tableau  
+Interactive dashboards and visual storytelling using Tableau.
+
+---
+
+## 🧩 Competitive Programming & DSA
+
+### 🧠 LeetCode-POTD  
+Daily DSA problem-solving repository with strong focus on algorithms.
+
+### 💻 Codes in C++  
+Collection of C++ implementations for data structures and algorithm practice.
+
+---
+
+## 🧪 Machine Learning
+
+### 📘 Machine Learning Repository  
+Hands-on learning repository covering NumPy, Pandas, and ML fundamentals.
+
+---
 
 > 💡 **Explore more projects in my repositories below! ⬇️**
+
 
 ---
 
