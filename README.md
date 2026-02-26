@@ -33,6 +33,8 @@ const ayush = {
 ## 💼 Featured Projects  
 
 ### 🚀 Backend & Scalable Systems
+- 🔐 **Deep Packet Inspection (DPI) Proxy** – Scalable TCP proxy with HTTPS CONNECT tunneling, domain blocking, rate limiting, bandwidth throttling, and real-time traffic inspection.  
+[Live](https://github.com/aayushh-30/DPI)
 - 🚗 **Uber Backend Clone** – Scalable ride-hailing backend with REST APIs, Redis caching, and real-time tracking.  
   [Live](https://github.com/aayushh-30/Uber)
 - 🎬 **Movie Booking System** – Full-stack booking platform with JWT authentication and Razorpay integration.  
