@@ -66,7 +66,6 @@ const ayush = {
 
 ---
 
----
 
 ## 🧑‍💻 Technical Interview Experiences
 
@@ -85,7 +84,7 @@ const ayush = {
 - Data Structure
 - Algorithm
 - System Design
-
+---
 ### 🏢 Company: Philips
 **Role:** Software Engineer Intern  
 
