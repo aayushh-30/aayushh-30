@@ -66,6 +66,54 @@ const ayush = {
 
 ---
 
+---
+
+## 🧑‍💻 Technical Interview Experiences
+
+### 🏢 Company: Siemens Technology
+**Role:** Graduate Technical Apprentice  
+
+**Technical Questions**
+- Difference between Authentication and Authorization, Process and Thread, SQL and NO SQL.
+- Booking system implementation in a Movie Booking System as this is mentioned in my project.
+- Approach of a DSA problem. Level was easy to medium.
+- Define Docker, why it is used.
+- What is CI/CD, give a example where you use this.
+- Small defination questions from my Resume
+
+**Concepts Tested**
+- Data Structure
+- Algorithm
+- System Design
+
+### 🏢 Company: Philips
+**Role:** Software Engineer Intern  
+
+**Technical Questions**
+- Given an Array with positive integers find the pivot index, where the sum of elements before that index is equal to the sum of numbers, after that index.
+- Design a Employee search system, approach and data structure used. In depth deatailing and how can you scale your system.
+- Define Indexing, Scaling, Time Complexity of various algorithms related to various data structure.
+- Difference between Process and Thread.
+
+**Concepts Tested**
+- Data Structures & Algorithms  
+- Backend Fundamentals  
+- System Design Basics  
+
+---
+
+### 🏢 Company: Finny ( Startup )
+**Role:** Backend Developer Intern  
+
+**Technical Questions**
+- One DSA + CP problem, created by the Company itself. This round extended upto 3 hours, with complete detailing of the approach.
+- Next day, Again a 3 hour round of System Design implementation of SplitWise.
+
+**Concepts Tested**
+- Data Structure
+- Algorithm
+- System Design
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
