@@ -20,7 +20,7 @@
 ```typescript
 const ayush = {
     location: "India 🇮🇳",
-    currentlyLearning: ["AI", "TypeScript", "AWS ☁️"],
+    currentlyLearning: ["AI", "LangChain", "Vector DBs"],
     interests: ["Algorithm Puzzles 🧩", "Building Useful Tools 🛠️", "API Development 🔌"],
     askMeAbout: ["Web Dev", "Backend", "DSA", "REST APIs", "System Design"],
     reachMe: "ayushkumarkarmi30@gmail.com",
