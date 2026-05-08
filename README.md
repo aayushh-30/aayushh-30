@@ -20,9 +20,9 @@
 ```typescript
 const ayush = {
     location: "India 🇮🇳",
-    currentlyLearning: ["AI", "LangChain", "Vector DBs"],
+    currentlyLearning: ["React Native"],
     interests: ["Algorithm Puzzles 🧩", "Building Useful Tools 🛠️", "API Development 🔌"],
-    askMeAbout: ["Web Dev", "Backend", "DSA", "REST APIs", "System Design"],
+    askMeAbout: ["Mobile Dev", "Web Dev", "Backend", "DSA", "REST APIs", "System Design"],
     reachMe: "ayushkumarkarmi30@gmail.com",
     funFact: "I turn coffee ☕ into code and bugs 🐛 into features! ✨"
 };
